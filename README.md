@@ -1,2 +1,2 @@
-# Sergio-Gonzalez-Ruiz
+# SergioGR_IntroToBioinformatics
 An Introduction to Computational Biology - UPM Master's Course
